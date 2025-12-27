@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Heart Rate Tracking Alarm – Privacy & Support</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 24px;
+      background-color: #f9fafb;
+      color: #111827;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 32px;
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+    }
+    h1, h2 {
+      color: #1f2937;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    hr {
+      margin: 32px 0;
+      border: none;
+      border-top: 1px solid #e5e7eb;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #6b7280;
+      text-align: center;
+    }
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Heart Rate Tracking Alarm</h1>
+    <p><strong>Privacy Policy & Support</strong></p>
+
+    <hr />
+
+    <h2>Privacy Policy</h2>
+    <p>
+      Heart Rate Tracking Alarm does <strong>not collect, store, or share</strong> any personal data.
+    </p>
+    <p>
+      The app connects to Bluetooth Low Energy (BLE) heart rate monitors to read heart rate values in real time.
+      All data is processed locally on your device and is never transmitted, stored externally, or shared.
+    </p>
+    <p>
+      The app does not use analytics, tracking, advertising SDKs, or third-party data collection services.
+    </p>
+    <p>
+      Notifications are used solely to alert you when your heart rate exceeds or falls below user-defined thresholds.
+    </p>
+
+    <hr />
+
+    <h2>Support</h2>
+    <p>
+      If you have questions, issues, or feedback, please contact:
+    </p>
+    <p>
+      📧 <a href="mailto:bohanqian@outlook.com">bohanqian@outlook.com</a>
+    </p>
+    <p>
+      <strong>Supported devices:</strong><br />
+      • Bluetooth LE heart rate monitors (e.g., Polar H10)
+    </p>
+    <p>
+      <strong>Disclaimer:</strong><br />
+      This app is intended for fitness and informational purposes only and is not a medical device.
+    </p>
+
+    <footer>
+      © 2025 Bohan Qian. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
